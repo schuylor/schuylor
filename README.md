@@ -1,7 +1,7 @@
 ### Hi, I'm Sage! 
 
 Currently an undergraduate in Applied Mathematics & Statistics at the University of Toronto.  
-I'm interested in **AI for Science (math and physics)** and **world models**.
+I'm interested in **AI for Science (math and physics)** and **world models**. And making music with AI!
 
 #### 🔬 Research
 - Currently doing research on computational search for extremal constructions in matrix theory,
