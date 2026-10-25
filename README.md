@@ -1,24 +1,26 @@
-### Hi, I'm Sage 👋
+### Hi, I'm Sage! 
 
-Undergraduate in Applied Mathematics & Statistics at the University of Toronto.  
-I like turning mathematical ideas into code, and I'm especially interested in
-**AI for Science (math and physics)** and **world models**.
+Currently an undergraduate in Applied Mathematics & Statistics at the University of Toronto.  
+I'm interested in **AI for Science (math and physics)** and **world models**.
 
 #### 🔬 Research
-- Undergraduate research on computational search for extremal constructions in matrix theory,
-  and exploring learning-based search methods.
+- Currently doing research on computational search for extremal constructions in matrix theory,
+  and exploring learning-based search methods with my two supervisors.
 
-#### 💼 Experience
-- **Tencent** — LLM evaluation and function-call alignment; LLM memory systems
-- **Enflame** — AI infrastructure
+#### 💼 Internship Experience
+- **Tencent (2025)** — LLM evaluation and function-call alignment; curriculum-learning-based RL training
+- **Tencent (2026)** — Building LLM memory systems
+- **Enflame (2026)** — Rollout performance analysis for reinforcement learning (RL) training, in AI infrastructure
 
 #### 📚 Currently learning
+- Foundations for world models: PDEs, diffusion models, ...
 - Lean (formal mathematics)
 - Learning-based search for mathematical constructions
 
 #### 🛠️ Side projects
 - Interactive visualizations for linear algebra and geometry — eigenvalues and definiteness,
-  matrix multiplication as tensor contraction, and the inverse stereographic transform (pinned below)
+  matrix multiplication as tensor contraction, and the inverse stereographic transform
+- Planning to build interactive SDE/PDE visualizations of how models learn
 
 ---
-*Aspiring to be intellectually fearless.*
+Feel free to reach out if you're interested in related topics!
