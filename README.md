@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi, I'm Sage 👋
 
-<!--
-**schuylor/schuylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate in Applied Mathematics & Statistics at the University of Toronto.  
+I like turning mathematical ideas into code, and I'm especially interested in
+**AI for Science (math and physics)** and **world models**.
 
-Here are some ideas to get you started:
+#### 🔬 Research
+- Undergraduate research on computational search for extremal constructions in matrix theory,
+  and exploring learning-based search methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💼 Experience
+- **Tencent** — LLM evaluation and function-call alignment; LLM memory systems
+- **Enflame** — AI infrastructure
+
+#### 📚 Currently learning
+- Lean (formal mathematics)
+- Learning-based search for mathematical constructions
+
+#### 🛠️ Side projects
+- Interactive visualizations for linear algebra and geometry — eigenvalues and definiteness,
+  matrix multiplication as tensor contraction, and the inverse stereographic transform (pinned below)
+
+---
+*Aspiring to be intellectually fearless.*
