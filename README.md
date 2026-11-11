@@ -1,26 +1,26 @@
-### Hi, I'm Sage! 
+### Hi, I'm Sage! 👋
 
-Currently an undergraduate in Applied Mathematics & Statistics at the University of Toronto.  
-I'm interested in **AI for Science (math and physics)** and **world models**. And making music with AI!
+I study Applied Mathematics & Statistics at the University of Toronto.
+I'm drawn to **AI for Science** — using learning and search to discover mathematical
+structure — and I'm curious about **world models** as a next step.
 
 #### 🔬 Research
-- Currently doing research on computational search for extremal constructions in matrix theory,
-  and exploring learning-based search methods with my two supervisors.
+- Computational search for extremal constructions in matrix theory, with two supervisors
+- Exploring learning-based search methods, and Lean for formal verification
 
-#### 💼 Internship Experience
-- **Tencent (2025)** — LLM evaluation and function-call alignment; curriculum-learning-based RL training
-- **Tencent (2026)** — Building LLM memory systems
-- **Enflame (2026)** — Rollout performance analysis for reinforcement learning (RL) training, in AI infrastructure
+#### 💼 Experience
+- **Enflame** (2026) — Profiled the rollout (generation) stage of RL training to estimate optimization headroom
+- **Tencent** (2026) — Built an LLM memory system
+- **Tencent** (2025) — LLM evaluation (Qwen on API-Bank & BFCL), function-call alignment, and curriculum-learning-based RL training
 
-#### 📚 Currently learning
-- Foundations for world models: PDEs, diffusion models, ...
-- Lean (formal mathematics)
-- Learning-based search for mathematical constructions
+#### 🎨 Side projects
+Interactive visualizations for linear algebra and geometry:
+- [Visualizing Eigenvalues & Definiteness](https://github.com/schuylor/Visualizing-Eigenvalues-Definiteness)
+- [TensorGlass](https://github.com/schuylor/TensorGlass-Interactive-3D-Matrix-Multiplication) — matrix multiplication as 3D tensor contraction
+- [StereoProj-Viz](https://github.com/schuylor/StereoProj-Viz) — inverse stereographic projection
 
-#### 🛠️ Side projects
-- Interactive visualizations for linear algebra and geometry — eigenvalues and definiteness,
-  matrix multiplication as tensor contraction, and the inverse stereographic transform
-- Planning to build interactive SDE/PDE visualizations of how models learn
+Coming next: SDE/PDE visualizations of how diffusion models learn.
+I also make music with AI 🎵
 
 ---
-Feel free to reach out if you're interested in related topics!
+Feel free to reach out if you're into any of this!
