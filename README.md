@@ -8,7 +8,7 @@ structure — and I'm curious about **world models** as a next step.
 - Computational search for extremal constructions in matrix theory, with two supervisors
 - Exploring learning-based search methods, and Lean for formal verification
 
-#### 💼 Experience
+#### 💼 Internship Experience
 - **Enflame** (2026) — Profiled the rollout (generation) stage of RL training to estimate optimization headroom
 - **Tencent** (2026) — Built an LLM memory system
 - **Tencent** (2025) — LLM evaluation (Qwen on API-Bank & BFCL), function-call alignment, and curriculum-learning-based RL training
