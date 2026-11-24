@@ -5,7 +5,7 @@ I'm drawn to **AI for Science** — using learning and search to discover mathem
 structure — and I'm curious about **world models** as a next step.
 
 #### 🔬 Research
-- Computational search for extremal constructions in matrix theory, with two supervisors
+- Currently doing computational search for extremal constructions in matrix theory, with two supervisors
 - Exploring learning-based search methods, and Lean for formal verification
 
 #### 💼 Internship Experience
